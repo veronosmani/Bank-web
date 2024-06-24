@@ -22,7 +22,7 @@ const App = () => (
         <Testimonials />
         <Clients />
         <CTA />
-        Footer
+        <Footer />
       </div>
     </div>
   </div>
